@@ -1,0 +1,15 @@
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\bin\Debug\net6.0\Task16.exe
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\bin\Debug\net6.0\Task16.deps.json
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\bin\Debug\net6.0\Task16.runtimeconfig.json
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\bin\Debug\net6.0\Task16.dll
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\bin\Debug\net6.0\Task16.pdb
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\Task16.csproj.AssemblyReference.cache
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\Task16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\Task16.AssemblyInfoInputs.cache
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\Task16.AssemblyInfo.cs
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\Task16.csproj.CoreCompileInputs.cache
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\Task16.dll
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\refint\Task16.dll
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\Task16.pdb
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\Task16.genruntimeconfig.cache
+C:\Users\Mad\Desktop\Seminar2(C#)\Task16\obj\Debug\net6.0\ref\Task16.dll

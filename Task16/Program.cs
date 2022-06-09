@@ -1,0 +1,21 @@
+﻿//**Задача 16:**
+
+//Напишите программу, которая принимает на вход два числа и проверяет, 
+//является ли одно число квадратом другого.
+
+using System;
+using static System.Console;
+
+Clear();
+
+Write("type the first number ");
+int number1 = Convert.ToInt32(ReadLine());
+
+Write("type the second number ");
+int number2 = Convert.ToInt32(ReadLine());
+
+string answer = Math.Pow(number1,2)==number2 || Math.Pow(number2,2)==number1?"Yes":"No";
+WriteLine(answer);
+string answer2 = Math.Pow(number1,2)==number2
+?$"{number1} is a square{number2}":$"{number1} is not a square{number2}";
+Write(answer2);
