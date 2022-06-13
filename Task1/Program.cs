@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Напишите программу, которая выводит случайное трёхзначное число
+// и удаляет вторую цифру этого числа.
+using System;
 using static System.Console;
 
 Clear();
@@ -9,5 +11,6 @@ int a1 = number/100;
 int a2 = number%10;
 
 WriteLine($"{a1}{a2}");
-
 WriteLine(a1 * 10 + a2);
+Write($"Numer without 2nd digit = {number/100}{number%10}");
+// Три разных способа это сделать
